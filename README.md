@@ -9,4 +9,4 @@ In this project, I will be cleaning a purposefully dirty dataset of cafe sales. 
 
 The original data is called: dirty_cafe_sales.csv
 
-I then performed various levels of cleaning based on the columns I wanted to analyse. For example, clean_cafe_items.csv is specifically cleaned to analyse the items column. The same applies to every other clean data csv file present. 
+I then performed various levels of cleaning based on the columns I wanted to analyse. For example, clean_cafe_items.xlsx is specifically cleaned to analyse the items column. The same applies to every other clean data xlsx file present. 
